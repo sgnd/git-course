@@ -1,6 +1,6 @@
-# Git CheatSheet
+# Git Cheatsheet: The Most Commonly Used Commands
 
-This cheatsheet provides a list of the most commonly used Git commands, grouped by category. It's a quick reference for developers who are already familiar with Git, but need a reminder of the syntax and options for specific commands.
+This cheatsheet is a quick reference for the most commonly used Git commands. It covers a range of topics, including Git basics, branching and merging, advanced concepts, and professional best practices. The commands are organized by category and include explanations and examples to help you understand how to use them.
 
 ## Common commands
 
